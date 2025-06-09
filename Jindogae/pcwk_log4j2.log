@@ -1,0 +1,3 @@
+[2025-04-24 18:03:51] DEBUG AdminDao.doSave(AdminDao.java:145) - 🎉 메뉴가 등록되었습니다: null
+[2025-04-24 18:05:34] DEBUG AdminDao.doSave(AdminDao.java:121) - ⚠️ 가격에는 숫자만 넣으세요.
+[2025-04-24 18:05:42] DEBUG AdminDao.doSave(AdminDao.java:145) - 🎉 메뉴가 등록되었습니다: dlksj
